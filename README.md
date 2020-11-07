@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakchawde&label=Profile%20views&color=0e75b6&style=flat" alt="deepakchawde" /> </p>
-<img scr="https://media.giphy.com/media/61XQCwucaDapRLPHzx/giphy.gif" alt="deepakchawde " align="right">
+<img scr="https://giphy.com/gifs/61XQCwucaDapRLPHzx/html5" alt="deepakchawde " align="right">
 
 <p align="left"> <a href="https://twitter.com/dchawde" target="blank"><img src="https://img.shields.io/twitter/follow/dchawde?logo=twitter&style=for-the-badge" alt="dchawde" /></a> </p>
 
