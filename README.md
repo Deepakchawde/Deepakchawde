@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dchawde" target="blank"><img src="https://img.shields.io/twitter/follow/dchawde?logo=twitter&style=for-the-badge" alt="dchawde" /></a> </p>
 
-- 🔭 I’m currently working on **Data Analysis **
+- 🔭 I’m currently working on **Data Analysis**
 
 - 🌱 I’m currently learning **SQL, Python , Pandas, Numpy, Matplotlib, Seaborn, PowerBi, R Language**
 
